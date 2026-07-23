@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RajitSahu2006/Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RajitSahu2006/Practice/tree/master/0014-longest-common-prefix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajitSahu2006/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,16 @@
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RajitSahu2006/Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajitSahu2006/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajitSahu2006/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RajitSahu2006/Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
